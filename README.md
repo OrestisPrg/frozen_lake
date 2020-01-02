@@ -1,4 +1,4 @@
-Reinforcement Learning: Frozen Lake Environment (OpenAI Gym)
+# Reinforcement Learning: Frozen Lake Environment (OpenAI Gym)
 
 This project uses the frozen lake environment from the OpenAI Gym library to explore and experiment with reinforcement learning and 2 reinforcement learning algorithms. The code includes implementations of both SARSA and Q-Learning algorithms and produces 3 graphs visualising the results.
 
