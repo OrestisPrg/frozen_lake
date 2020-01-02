@@ -1,4 +1,4 @@
-# frozen_lake
+Reinforcement Learning: Frozen Lake Environment (OpenAI Gym)
 
 This project uses the frozen lake environment from the OpenAI Gym library to explore and experiment with reinforcement learning and 2 reinforcement learning algorithms. The code includes implementations of both SARSA and Q-Learning algorithms and produces 3 graphs visualising the results.
 
@@ -12,3 +12,8 @@ In order to run the file *frozen_lake.py* you need install **gym** library. You 
 2. Activate the environment with `source env/bin/activate`
 3. Install gym `pip install gym`
 4. Install matplotlib `pip install matplotlib`
+
+# RL Hyperparameters:
+* Exploration parameter (`epsilon`)
+* Discount factor (`gamma`)
+* Learning rate (`learning_rate`)
