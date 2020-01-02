@@ -13,7 +13,7 @@ In order to run the file *frozen_lake.py* you need install **gym** library. You 
 3. Install gym `pip install gym`
 4. Install matplotlib `pip install matplotlib`
 
-# RL Hyperparameters:
+## RL Hyperparameters:
 * Exploration parameter (`epsilon`)
 * Discount factor (`gamma`)
 * Learning rate (`learning_rate`)
